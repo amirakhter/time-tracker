@@ -1,3 +1,5 @@
 what is jenkin?
 jenkin is a open source automation software that is widely use for ci/cd  in software project .
 it help to automate building testing and deployment
+what is groovy language in jenkins ?
+groovy language is a poewrfull language in jenkins that is used for  quick file scripting.it can also read the file in which jenkin controller has access on the host.

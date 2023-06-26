@@ -1,0 +1,3 @@
+what is DSL in jenkins ?
+DSL stand for domain specific  language .
+DSL is a plugin that allow you to dscribe your job in jenkins using a groovy based language .
